@@ -1,0 +1,29 @@
+## Firebase Function + Firestore
+
+### Install
+
+```
+npm install -g firebase-tools
+firebase login
+npm run deploy
+```
+
+### Run function locally
+
+Not work if connect to firestore. permission problem.
+
+```
+firebase emulators:start
+```
+
+### Method
+
+```
+[POST] https://us-central1-sogo-mock-server.cloudfunctions.net/webApi/contacts/
+
+[GET] https://us-central1-sogo-mock-server.cloudfunctions.net/webApi/contacts/MEhK8T1Ri3kxXxz70lMt
+
+[GET] https://us-central1-sogo-mock-server.cloudfunctions.net/webApi/contacts/
+
+[DELETE] https://us-central1-sogo-mock-server.cloudfunctions.net/webApi/contacts/OgAzEgCB0Tp5YZGqOwoY
+```

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sogo-mock-server-local-debug",
+  "private_key_id": "9a3a9434b50311ebf55212976c831322d4db6a45",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5313KwRfXL8xz\nJ7l+xIgzpRrbI6M1Brtl9lObvIoIGkeI2gmG06RhB6/sNVLyHpQaUtTvcSEG8zft\nSaeWlH6m511VOR8XK5uMxA7vvyPVjhlmak+6AFeMeb2hbCIqGPPnyS+Bt1yoW+H7\nRN0OdG1P+ERnfqIV0m2GZtQMWbIDlbZETO1+ofmIYAp8AI/jB55l/p2C1sXOPgYX\n02ybBnxHTczdro76jipN/AXoMdfTx9gtGBtZV3ymGPE/HvaKLWz36IUGKia8pnrU\nxElb52vxkUAsw8uT9lPvE3hhmaxqNWaF/V2nguoni9j3potn9mE8vAaii19bS2gw\n7D/zgDjFAgMBAAECggEAI3d67OGX9DxfaXjCxSzopVwjif2cmpVohD3yubSJ7R5g\nmH0sVLEFPGuMVsjdBSyvC2/TSEYgrHQT75/+jbXTjfL3ZPfjlhcA1SUjCX3CL3Fw\nKNHv2RjQG9KuC8N3qGs+/TMvMLQFhu2Taw/6k1PFeP0xRkNMV9ghhIQSAbJKzLJ8\ndGZ366FvN+RQ4UBF7XaLd+kt7l3GtlU92FOxh9A0vgxHOARRDjYr+PLorubD5MJe\nVISRAjNCn7K3orUiKHLA2cp8wTTyIK94Te0hRquVMmBeOyCLq2ofJigltxeYM3UZ\nmplhvTGfS8CD/YcCwtMo8310vUo46deTYtak+vJqYQKBgQD1W/VIcxCTo6hT4kDe\n2taMvqQZZStG0qJQan+CkaUt8hHcEqmHi86YIDlBU7Z47KVquWzYVTE4raEnfdfZ\nTlDC8LG9E8v5SMfq8iKCnelbN57Ecj2a1N2glRRpSSgjrv9AFRIyq9SSCykpcMrj\nX2rZ5ok5kxxAbHUtmPFEBIe14QKBgQDB7vi3pYQQYgB9GaQH8EGMwmib12CJ00kf\n2HCVC1saHY0vpknBUpXTeEYmkKzf8FDPDTOV3mZa1oZDyVvFyJBQqMxO77KHOi3R\nOhzZ9Bs6xTSESScr4/RTpFzkav5CPfi4JwcDJ4s5x6sftY2jmsypuxAc1mGMm2/C\nfV3xA+ZXZQKBgBEALy2281YXh+lQCwimBym3Z+1uiiIdJCwIRQ+KAfT+CejCzkZb\nFJSL3wu8vi8AzrFnabhPptpzhXAUEym2eHgZb2dXgNGkDl4kKun8ARhV8UVRWR1q\nVHT0/3YQIJzgWkVZcGpcZ5068r4xV42Lpf61L5ryq4l3OmNPbqA05CZhAoGAG/nL\nK0LXMD3S8Dj4rqR78EBDMuf45yjxjYR9iSKgO74zlcIZNagiMOVSyVFpfsx9+8Bd\nxqrUfRohODod4QQzvU78Wg695EACSAJoExDhtLKqBsM+wVga8M3vEIxWrVufO4F1\nw4C61tT03JgmHInCKGHxyxcp70yk7JuFJ7V2TvkCgYA9KPuf2zsexOhuVDNrN4ZK\nWBlT0QONcuLQ47RWEfBLLgTzxHrfOS6wa57tTY/am+2jsb+vp7IbHXh3fVMS5A0c\n4XaeA6oO7jOpGAiSGQ/bwyueono8OR91wwrpnU2FDODkCOz8xowDb7HRKaotpqzi\ng5d2IMOdoVrn2mQdNFNxRw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "local-sogo-mock-server2@sogo-mock-server-local-debug.iam.gserviceaccount.com",
+  "client_id": "108688999034067097990",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/local-sogo-mock-server2%40sogo-mock-server-local-debug.iam.gserviceaccount.com"
+}
